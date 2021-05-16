@@ -41,7 +41,7 @@ $ python training.py
 ```
 
 ### Results
-**(Training)** Mean scores every 100 episodes ([traning.py](./traning.py)) 
+**(Training)** Mean scores every 100 episodes ([traning.py](./training.py))
 ```
 Episode 100	Average Score: 0.03690	Max Score: 0.30000 in 100 episodes
 Episode 200	Average Score: 0.37900	Max Score: 2.70000 in 100 episodes
@@ -85,7 +85,7 @@ Episode 28	 Average Score: 2.28
 Episode 29	 Average Score: 2.29
 Episode 30	 Average Score: 2.30
 ```
-[Video](./tennis.md) 
+[Video](./tennis.mp4) 
 
 ### DDPG Implementation Details
 
