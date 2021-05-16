@@ -1,0 +1,41 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+.idea
+cmake-build*
+*.log
+
+# Python byte-compile file
+__pycache__/
+*.pyc
+
+
+# editor backup files
+*~
+\#*\#
+
+# backup files
+*.bak
+
+# Eclipse
+.cproject
+.project
+.pydevproject
+.settings/
+
+# Visual Studio Code
+.vscode/
+
+# qt
+*.workspace
+*.workspace.user
+*.workspace.user.*
+
+# CLion
+.idea/
+cmake-build-debug/
+
+.env
+.venv
+env/
+venv/
+ENV/
+/.metadata/
