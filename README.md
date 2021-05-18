@@ -54,36 +54,11 @@ Environment solved in 206 episodes!	Average Score: 0.51610
 **(Play games)** Mean scores every episode ([play.py](./play.py))   
 Note: set training_mode = True to speed-up a game play and visualise results
 ```
-Episode 1	 Average Score: 2.60
-Episode 2	 Average Score: 1.35
-Episode 3	 Average Score: 1.77
-Episode 4	 Average Score: 1.35
-Episode 5	 Average Score: 1.60
-Episode 6	 Average Score: 1.35
-Episode 7	 Average Score: 1.53
-Episode 8	 Average Score: 1.66
-Episode 9	 Average Score: 1.78
-Episode 10	 Average Score: 1.61
-Episode 11	 Average Score: 1.70
-Episode 12	 Average Score: 1.78
-Episode 13	 Average Score: 1.85
-Episode 14	 Average Score: 1.90
-Episode 15	 Average Score: 1.95
-Episode 16	 Average Score: 1.99
-Episode 17	 Average Score: 2.04
-Episode 18	 Average Score: 2.07
-Episode 19	 Average Score: 2.10
-Episode 20	 Average Score: 2.13
-Episode 21	 Average Score: 2.15
-Episode 22	 Average Score: 2.17
-Episode 23	 Average Score: 2.19
-Episode 24	 Average Score: 2.21
-Episode 25	 Average Score: 2.23
-Episode 26	 Average Score: 2.25
-Episode 27	 Average Score: 2.26
-Episode 28	 Average Score: 2.28
-Episode 29	 Average Score: 2.29
-Episode 30	 Average Score: 2.30
+Episode 1	 Average Score: 2.60	 Number of play: 1000
+Episode 2	 Average Score: 2.65	 Number of play: 1000
+Episode 3	 Average Score: 2.63	 Number of play: 1000
+Episode 4	 Average Score: 2.65	 Number of play: 1000
+Episode 5	 Average Score: 2.66	 Number of play: 1000
 ```
 [Video](./tennis.mp4) 
 
